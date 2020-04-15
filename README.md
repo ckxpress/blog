@@ -1,6 +1,4 @@
-# chungkin-express
+# about me
 
-* [許願池：讓用戶販賣商品的 Matters 市集](https://github.com/ckxpress/chungkin-express/matters-bazaar/)
-
-
+地球人。相信自由民主多元。人文為體，科技為用。
 
