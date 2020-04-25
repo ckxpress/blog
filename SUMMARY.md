@@ -1,6 +1,7 @@
 # Table of contents
 
 * [about me](README.md)
+* [當流動民主遇上平方投票法](liquid-democracy-x-qv.md)
 * [民主的再想像](min-zhu-de-zai-xiang-xiang.md)
 * [\#ThisAttackComesFromTaiwan](thisattackcomesfromtaiwan.md)
 * [許願池：讓用戶販賣商品的 Matters 市集](matters-bazaar.md)
