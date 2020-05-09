@@ -1,6 +1,7 @@
 # Table of contents
 
 * [about me](README.md)
+* [比特幣第三次產出減半](bi-te-bi-di-san-ci-chan-chu-jian-ban.md)
 * [2020.05.01 First of May](2020.05.01-first-of-may.md)
 * [當基進市場遇上區塊鏈](liquid-democracy-x-qv.md)
 * [民主的再想像](min-zhu-de-zai-xiang-xiang.md)
